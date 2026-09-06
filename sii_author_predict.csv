@@ -5,13 +5,13 @@ bibhuprasad-hcl,Google,4906.90
 VSuryaprasad-HCL,Google,4852.10
 Gfrom2016,Microsoft,4311.10
 saiarcot895,Microsoft,3604.50
-ksravani-hcl,Google,3252.35
+ksravani-hcl,Google,3285.35
 lipxu,Microsoft,3058.05
 bingwang-ms,Microsoft,2854.10
 lolyu,Microsoft,2353.70
 wangxin,Microsoft,2284.30
 liushilongbuaa,Microsoft,2276.00
-yxieca,Microsoft,2145.95
+yxieca,Microsoft,2146.55
 vadymhlushko-mlnx,Nvidia,1962.45
 hdwhdw,Microsoft,1946.00
 StormLiangMS,Microsoft,1943.45
@@ -23,7 +23,7 @@ r12f,Microsoft,1864.60
 yue-fred-gao,Cisco,1849.65
 theasianpianist,Microsoft,1841.35
 stephenxs,Nvidia,1831.80
-Pterosaur,Microsoft,1816.00
+Pterosaur,Microsoft,1822.00
 sdszhang,Microsoft,1815.30
 liuh-80,Microsoft,1790.55
 dgsudharsan,Nvidia,1788.40
@@ -35,7 +35,7 @@ Junchao-Mellanox,Nvidia,1659.75
 yutongzhang-microsoft,Microsoft,1632.60
 auspham,Microsoft,1595.35
 BYGX-wcr,Microsoft,1558.80
-kcudnik,Microsoft,1493.45
+kcudnik,Microsoft,1493.75
 zbud-msft,Microsoft,1454.10
 philo-micas,Micas,1413.10
 ganglyu,Microsoft,1400.90
@@ -70,7 +70,7 @@ FengPan-Frank,Microsoft,920.85
 vijaya-ops,Broadcom,918.60
 richardyu-ms,Microsoft,917.05
 judyjoseph,Microsoft,911.15
-copilot-pull-request-reviewer,Others,903.50
+copilot-pull-request-reviewer,Others,903.80
 keboliu,Nvidia,897.50
 wsycqyz,Microsoft,892.00
 echuawu,Nvidia,874.95
@@ -93,7 +93,7 @@ JibinBao,Nvidia,714.30
 saksarav-nokia,Nokia,713.65
 Staphylo,Arista,713.10
 Yakiv-Huryk,Nvidia,711.85
-DavidZagury,Nvidia,699.95
+DavidZagury,Nvidia,700.25
 nhe-NV,Nvidia,683.05
 cscarpitta,Cisco,679.05
 Janetxxx,Microsoft,664.30
@@ -130,7 +130,7 @@ volodymyrsamotiy,Nvidia,468.85
 jianyuewu,Nvidia,462.50
 pettershao-ragilenetworks,Ragile,452.00
 JaiOCP,Broadcom,440.70
-roger-nexthop,Nexthop,433.50
+roger-nexthop,Nexthop,436.50
 bgallagher-nexthop,Nexthop,427.50
 ysmanman,Arista,425.90
 arpit-nexthop,Nexthop,425.55
@@ -224,7 +224,7 @@ AkeelAli,Cisco,210.75
 GaladrielZhao,Alibaba,210.30
 cshivashgit,Cisco,206.75
 rpmarvell,Marvell,205.00
-mint570,Google,204.10
+mint570,Google,204.70
 vikumarks,Others,203.80
 abhi-nexthop,Nexthop,200.40
 ashwin-h,Others,200.30
@@ -409,8 +409,8 @@ AnandhiDhanabalan,Marvell,74.45
 yenlu-keith,Cisco,74.35
 dks0692,Others,74.30
 bluecmd,Others,74.00
+github-actions,Others,73.50
 x-junyi,Others,73.40
-github-actions,Others,72.90
 michaelc-nexthop,Nexthop,72.50
 shixizhang,Microsoft,71.40
 tiejunzhang-ms,Microsoft,70.90
